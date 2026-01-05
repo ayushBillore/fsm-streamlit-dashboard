@@ -1,0 +1,6 @@
+streamlit
+pandas
+sympy
+schemdraw
+matplotlib
+graphviz
